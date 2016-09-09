@@ -1,0 +1,1 @@
+admVsldr_obj.adm_vsld_refCheck({"res":1,"exclude":"&sxch=1","ref":"https:\/\/www.google.com.vn\/","url":"www.google.com.vn"});
